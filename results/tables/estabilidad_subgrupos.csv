@@ -1,0 +1,4 @@
+﻿dimension,predictor,rho_global,programas_evaluados,programas_mismo_signo,rho_minimo,rho_maximo,interpretacion
+Académica,satisfaccion_programa,-0.3488008912415311,6,6,-0.5613441665459329,-0.07316480386639344,Coincidencia de signo descriptiva; no prueba de estabilidad estadística
+Personal,satisfaccion_programa,-0.2791127394694217,6,5,-0.5265724995599673,0.014872107250298094,Coincidencia de signo descriptiva; no prueba de estabilidad estadística
+Socioeconómica,oportunidades_laborales,-0.19729111771164512,6,5,-0.4090680608924713,0.04170717418482934,Coincidencia de signo descriptiva; no prueba de estabilidad estadística

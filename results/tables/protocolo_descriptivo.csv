@@ -1,0 +1,7 @@
+﻿indicador,formula_o_definicion,referencia,prueba_prevista,reporte
+Distribución ordinal por dimensión,n de respuestas en categoría / n válidas × 100,Cinco categorías dentro de cada dimensión,Chi-cuadrado solo si frecuencias esperadas permiten; alternativa por permutación si no,V de Cramér e intervalo bootstrap
+Puntuaciones 4–5,n con puntuación 4 o 5 / n válidas × 100,Proporciones dentro de programas y grupos; sin meta externa,Contraste secundario; no sustituye las categorías completas,Diferencias en puntos porcentuales con intervalos
+Posición de la respuesta ordinal,Mediana y Q3 − Q1 de cada dimensión,Distribución global y grupos predefinidos,Mann–Whitney para dos grupos; Kruskal–Wallis para más de dos,Correlación biserial por rangos o epsilon cuadrado
+Asociación ordinal,rho de Spearman entre predictor y dimensión,Ausencia de asociación monotónica (rho = 0),"Permutación bilateral con 9999 permutaciones, semilla fija","Intervalo bootstrap pareado, 2000 remuestras"
+Comparaciones múltiples,p ajustado por Holm,Familias predefinidas por tipo de contraste y dimensión,"Alfa 0,05; sin elegir pruebas por el resultado obtenido",Reportar tamaño del efecto e incertidumbre junto al valor p
+Reproducibilidad y sensibilidad,Tablas regeneradas y diferencias entre tratamientos,"Mismos bytes, versiones y semilla; respuesta ordinal sin agrupar",No corresponde división de entrenamiento/prueba ni línea base predictiva,"Cumplimiento: trazabilidad y limitaciones explícitas, sin exigir resultados significativos"

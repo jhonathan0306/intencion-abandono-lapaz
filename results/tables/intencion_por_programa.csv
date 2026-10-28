@@ -1,0 +1,19 @@
+﻿programa,dimension,n,mediana,n_4_5,porcentaje_4_5
+Biología,Personal,55,3.0,13,23.636363636363637
+Biología,Socioeconómica,55,2.0,14,25.454545454545453
+Biología,Académica,55,1.0,9,16.363636363636363
+Estadística,Personal,59,2.0,12,20.33898305084746
+Estadística,Socioeconómica,59,3.0,14,23.728813559322035
+Estadística,Académica,59,2.0,9,15.254237288135593
+Geografía,Personal,48,3.0,8,16.666666666666664
+Geografía,Socioeconómica,48,3.0,20,41.66666666666667
+Geografía,Académica,48,2.0,5,10.416666666666668
+Gestión Cultural y Comunicativa,Personal,37,3.0,6,16.216216216216218
+Gestión Cultural y Comunicativa,Socioeconómica,37,3.0,12,32.432432432432435
+Gestión Cultural y Comunicativa,Académica,37,2.0,6,16.216216216216218
+Ingeniería Biológica,Personal,47,3.0,11,23.404255319148938
+Ingeniería Biológica,Socioeconómica,47,2.0,9,19.148936170212767
+Ingeniería Biológica,Académica,47,2.0,6,12.76595744680851
+Ingeniería Mecatrónica,Personal,87,3.0,27,31.03448275862069
+Ingeniería Mecatrónica,Socioeconómica,87,2.0,27,31.03448275862069
+Ingeniería Mecatrónica,Académica,87,2.0,19,21.839080459770116

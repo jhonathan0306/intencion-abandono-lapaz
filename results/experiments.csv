@@ -1,0 +1,2 @@
+﻿id,objetivo,metodo,semilla,n,hiperparametros,modelo,metricas_predictivas,fuente_sha256
+ACA1_EDA,Caracterización y exploración multivariada,Descriptivo; Spearman; sensibilidad Pearson; VIF; subgrupos,20261024,333,No aplica,No entrenado,No aplica,72d788f9e3a20b4923e9be5ca2edc1907ee006e7d0a7cac0b0cd4c551e766d5f

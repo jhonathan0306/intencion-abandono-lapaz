@@ -1,0 +1,7 @@
+﻿tratamiento,factor,n,media_puntos,mediana_puntos
+A Solo suma 100,peso_personal,288,32.951388888888886,33.0
+A Solo suma 100,peso_socioeconomico,288,42.42673611111111,40.0
+A Solo suma 100,peso_academico,288,24.621875000000003,30.0
+B Reescalar ternas positivas,peso_personal,313,32.93873158984007,33.0
+B Reescalar ternas positivas,peso_socioeconomico,313,41.99430913814218,40.0
+B Reescalar ternas positivas,peso_academico,313,25.06695927201775,27.27272727272727

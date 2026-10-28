@@ -1,0 +1,7 @@
+﻿variable,tipo,valores,descripcion
+grupo_edad,Ordinal,17–19; 20–22; 23–25; 26 o más,Agrupación de edad; 29+ se incluye en 26 o más
+estrato_grupo,Ordinal,1; 2; 3–6,Agrupación de estratos poco frecuentes
+pesos_suman_100,Booleana,True; False,"Bandera de integridad, no indicador de riesgo"
+intencion_personal_original,Ordinal,1–5,Respuesta original; dirección inversa a la puntuación analítica
+intencion_socioeconomica_original,Ordinal,1–5,Respuesta original; dirección inversa a la puntuación analítica
+intencion_academica_original,Ordinal,1–5,Respuesta original; dirección inversa a la puntuación analítica

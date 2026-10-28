@@ -1,0 +1,8 @@
+﻿indicador,antes,despues,tratamiento
+Registros,333,333.0,No se eliminan participantes
+Columnas,34,33.0,"Exclusiones, agrupaciones y bandera de integridad documentadas"
+Celdas vacías,0,0.0,No se imputa
+Filas duplicadas completas,0,0.0,La agrupación puede hacer coincidir perfiles distintos; no borrar
+Duplicados originales sin marca temporal,0,,Comprobación sobre la fuente
+Respuestas con pesos que suman 100,288,288.0,Solo aptas para análisis composicional estricto
+Respuestas con pesos que no suman 100,45,45.0,Se conserva el resto de las respuestas

@@ -1,0 +1,167 @@
+﻿variable,categoria,n,denominador,porcentaje
+genero,Masculino,215,333,64.56456456456456
+genero,Femenino,118,333,35.43543543543544
+estado_civil,Soltero,313,333,93.993993993994
+estado_civil,Casado o unión libre,20,333,6.006006006006006
+programa,Ingeniería Mecatrónica,87,333,26.126126126126124
+programa,Estadística,59,333,17.71771771771772
+programa,Biología,55,333,16.516516516516518
+programa,Geografía,48,333,14.414414414414415
+programa,Ingeniería Biológica,47,333,14.114114114114114
+programa,Gestión Cultural y Comunicativa,37,333,11.11111111111111
+primera_generacion,No,186,333,55.85585585585585
+primera_generacion,Si,147,333,44.14414414414414
+transporte,Bus suministrado por la sede,210,333,63.06306306306306
+transporte,Moto,72,333,21.62162162162162
+transporte,Carro particular,25,333,7.5075075075075075
+transporte,Bus de transporte público,17,333,5.105105105105105
+transporte,Bicicleta,9,333,2.7027027027027026
+apoyo_ambiente_familiar,5,166,333,49.849849849849846
+apoyo_ambiente_familiar,4,94,333,28.22822822822823
+apoyo_ambiente_familiar,3,47,333,14.114114114114114
+apoyo_ambiente_familiar,2,14,333,4.2042042042042045
+apoyo_ambiente_familiar,1,12,333,3.6036036036036037
+importancia_apoyo_familiar,5,191,333,57.35735735735735
+importancia_apoyo_familiar,4,87,333,26.126126126126124
+importancia_apoyo_familiar,3,38,333,11.411411411411411
+importancia_apoyo_familiar,1,11,333,3.303303303303303
+importancia_apoyo_familiar,2,6,333,1.8018018018018018
+intencion_personal,1,115,333,34.53453453453454
+intencion_personal,3,94,333,28.22822822822823
+intencion_personal,4,55,333,16.516516516516518
+intencion_personal,2,47,333,14.114114114114114
+intencion_personal,5,22,333,6.606606606606606
+desafios,Recursos económicos,95,333,28.52852852852853
+desafios,Adaptibilidad,71,333,21.32132132132132
+desafios,Movilidad y acceso a la universidad,67,333,20.12012012012012
+desafios,Gestión del tiempo,31,333,9.30930930930931
+desafios,Salud mental y bienestar estudiantil,21,333,6.306306306306306
+desafios,Otras respuestas,19,333,5.7057057057057055
+desafios,Desafíos personales y familiares,17,333,5.105105105105105
+desafios,Ninguno,12,333,3.6036036036036037
+factores_personales_continuar,Metas personales y pasion,94,333,28.22822822822823
+factores_personales_continuar,Estabilidad económica,58,333,17.417417417417415
+factores_personales_continuar,Bienestar personal y familiar,43,333,12.912912912912914
+factores_personales_continuar,Ninguno,37,333,11.11111111111111
+factores_personales_continuar,Red de apoyo familiar y emocional,34,333,10.21021021021021
+factores_personales_continuar,Ser profesional,18,333,5.405405405405405
+factores_personales_continuar,Trabajar,15,333,4.504504504504505
+factores_personales_continuar,Mejorar salud fisica y/o mental,12,333,3.6036036036036037
+factores_personales_continuar,Tiempo invertido,9,333,2.7027027027027026
+factores_personales_continuar,Apoyo familiar y económico,7,333,2.1021021021021022
+factores_personales_continuar,Otras respuestas,6,333,1.8018018018018018
+factores_personales_abandonar,Ninguno,76,333,22.822822822822822
+factores_personales_abandonar,Factores economicos,75,333,22.52252252252252
+factores_personales_abandonar,Problemas de salud fisica y/o mental,69,333,20.72072072072072
+factores_personales_abandonar,Factores contundentes familiares,40,333,12.012012012012011
+factores_personales_abandonar,Cambio de aspiraciones,27,333,8.108108108108109
+factores_personales_abandonar,Trabajo,9,333,2.7027027027027026
+factores_personales_abandonar,Falta de tiempo,8,333,2.4024024024024024
+factores_personales_abandonar,Falta de apoyo,8,333,2.4024024024024024
+factores_personales_abandonar,Inseguridades académicas,6,333,1.8018018018018018
+factores_personales_abandonar,Condiciones académicas,6,333,1.8018018018018018
+factores_personales_abandonar,Barreras geográficas,5,333,1.5015015015015014
+factores_personales_abandonar,Otras respuestas,4,333,1.2012012012012012
+vivienda,Familiar o propia,201,333,60.36036036036037
+vivienda,Arrendada,132,333,39.63963963963964
+ayuda_financiera,Si,183,333,54.95495495495496
+ayuda_financiera,No,150,333,45.04504504504504
+intencion_socioeconomica,1,110,333,33.033033033033036
+intencion_socioeconomica,3,75,333,22.52252252252252
+intencion_socioeconomica,4,67,333,20.12012012012012
+intencion_socioeconomica,2,52,333,15.615615615615615
+intencion_socioeconomica,5,29,333,8.708708708708707
+factores_socioeconomicos_continuar,Apoyo económico,134,333,40.24024024024024
+factores_socioeconomicos_continuar,Ninguno,65,333,19.51951951951952
+factores_socioeconomicos_continuar,Apoyo familiar,52,333,15.615615615615615
+factores_socioeconomicos_continuar,Apoyo universitario,47,333,14.114114114114114
+factores_socioeconomicos_continuar,Apoyo gubernamental,21,333,6.306306306306306
+factores_socioeconomicos_continuar,Expectativas y futuro,12,333,3.6036036036036037
+factores_socioeconomicos_continuar,Otras respuestas,2,333,0.6006006006006006
+factores_socioeconomicos_abandonar,Falta de recursos,144,333,43.24324324324324
+factores_socioeconomicos_abandonar,Ninguno,88,333,26.426426426426424
+factores_socioeconomicos_abandonar,Transporte y alimentacion,33,333,9.90990990990991
+factores_socioeconomicos_abandonar,Falta de apoyo familiar,25,333,7.5075075075075075
+factores_socioeconomicos_abandonar,Falta de empleo,23,333,6.906906906906906
+factores_socioeconomicos_abandonar,Falta de apoyo universitario,17,333,5.105105105105105
+factores_socioeconomicos_abandonar,Otras respuestas,3,333,0.9009009009009009
+naturaleza_colegio,Pública,289,333,86.78678678678679
+naturaleza_colegio,Privada,44,333,13.213213213213212
+jornada_colegio,Mañana,219,333,65.76576576576578
+jornada_colegio,Única,68,333,20.42042042042042
+jornada_colegio,Tarde,41,333,12.312312312312311
+jornada_colegio,Noche,5,333,1.5015015015015014
+satisfaccion_programa,4,136,333,40.84084084084084
+satisfaccion_programa,3,85,333,25.525525525525527
+satisfaccion_programa,5,83,333,24.924924924924923
+satisfaccion_programa,2,20,333,6.006006006006006
+satisfaccion_programa,1,9,333,2.7027027027027026
+satisfaccion_induccion,3,107,333,32.13213213213213
+satisfaccion_induccion,4,85,333,25.525525525525527
+satisfaccion_induccion,5,53,333,15.915915915915916
+satisfaccion_induccion,2,51,333,15.315315315315313
+satisfaccion_induccion,1,37,333,11.11111111111111
+satisfaccion_docencia,4,130,333,39.03903903903904
+satisfaccion_docencia,3,120,333,36.03603603603604
+satisfaccion_docencia,5,50,333,15.015015015015015
+satisfaccion_docencia,2,23,333,6.906906906906906
+satisfaccion_docencia,1,10,333,3.003003003003003
+dedicacion_estudio,4,132,333,39.63963963963964
+dedicacion_estudio,3,95,333,28.52852852852853
+dedicacion_estudio,5,79,333,23.723723723723726
+dedicacion_estudio,2,18,333,5.405405405405405
+dedicacion_estudio,1,9,333,2.7027027027027026
+oportunidades_laborales,4,118,333,35.43543543543544
+oportunidades_laborales,3,101,333,30.33033033033033
+oportunidades_laborales,5,75,333,22.52252252252252
+oportunidades_laborales,2,30,333,9.00900900900901
+oportunidades_laborales,1,9,333,2.7027027027027026
+intencion_academica,1,131,333,39.33933933933934
+intencion_academica,3,82,333,24.624624624624623
+intencion_academica,2,66,333,19.81981981981982
+intencion_academica,4,39,333,11.711711711711711
+intencion_academica,5,15,333,4.504504504504505
+factores_academicos_continuar,Metodología de enseñanza,85,333,25.525525525525527
+factores_academicos_continuar,Sistema académico,77,333,23.123123123123122
+factores_academicos_continuar,Ninguno,71,333,21.32132132132132
+factores_academicos_continuar,Motivación,49,333,14.714714714714713
+factores_academicos_continuar,Rendimiento académico,17,333,5.105105105105105
+factores_academicos_continuar,Carga académica,14,333,4.2042042042042045
+factores_academicos_continuar,Semilleros de investigación,7,333,2.1021021021021022
+factores_academicos_continuar,Infraestructura y recursos,6,333,1.8018018018018018
+factores_academicos_continuar,Recursos económicos,6,333,1.8018018018018018
+factores_academicos_continuar,Otras respuestas,1,333,0.3003003003003003
+factores_academicos_abandonar,Ninguno,102,333,30.630630630630627
+factores_academicos_abandonar,Rendimiento academico,63,333,18.91891891891892
+factores_academicos_abandonar,Sistema académico,57,333,17.117117117117118
+factores_academicos_abandonar,Metodología de enseñanza,48,333,14.414414414414415
+factores_academicos_abandonar,Espectativas personales,25,333,7.5075075075075075
+factores_academicos_abandonar,Económicos,20,333,6.006006006006006
+factores_academicos_abandonar,Estrés académico y salud,13,333,3.903903903903904
+factores_academicos_abandonar,Apoyo universitario,5,333,1.5015015015015014
+busqueda_ayuda,Buscaría ayuda,281,333,84.38438438438438
+busqueda_ayuda,No buscaría ayuda,52,333,15.615615615615615
+grupo_edad,20–22,173,333,51.95195195195195
+grupo_edad,17–19,78,333,23.423423423423422
+grupo_edad,23–25,66,333,19.81981981981982
+grupo_edad,26 o más,16,333,4.804804804804805
+intencion_personal_original,5,115,333,34.53453453453454
+intencion_personal_original,3,94,333,28.22822822822823
+intencion_personal_original,2,55,333,16.516516516516518
+intencion_personal_original,4,47,333,14.114114114114114
+intencion_personal_original,1,22,333,6.606606606606606
+intencion_socioeconomica_original,5,110,333,33.033033033033036
+intencion_socioeconomica_original,3,75,333,22.52252252252252
+intencion_socioeconomica_original,2,67,333,20.12012012012012
+intencion_socioeconomica_original,4,52,333,15.615615615615615
+intencion_socioeconomica_original,1,29,333,8.708708708708707
+intencion_academica_original,5,131,333,39.33933933933934
+intencion_academica_original,3,82,333,24.624624624624623
+intencion_academica_original,4,66,333,19.81981981981982
+intencion_academica_original,2,39,333,11.711711711711711
+intencion_academica_original,1,15,333,4.504504504504505
+estrato_grupo,1,184,333,55.25525525525525
+estrato_grupo,2,111,333,33.33333333333333
+estrato_grupo,3–6,38,333,11.411411411411411
+pesos_suman_100,True,288,333,86.48648648648648
+pesos_suman_100,False,45,333,13.513513513513514

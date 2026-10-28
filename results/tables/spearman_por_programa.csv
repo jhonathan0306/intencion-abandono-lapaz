@@ -1,0 +1,145 @@
+﻿programa,dimension,predictor,n,rho
+Biología,Personal,apoyo_ambiente_familiar,55,-0.19487570054517397
+Biología,Personal,importancia_apoyo_familiar,55,-0.1195442913415464
+Biología,Personal,estrato,55,-0.158810876168477
+Biología,Personal,satisfaccion_programa,55,-0.5265724995599673
+Biología,Personal,satisfaccion_induccion,55,-0.15698476996094424
+Biología,Personal,satisfaccion_docencia,55,-0.37315832785413133
+Biología,Personal,dedicacion_estudio,55,-0.4620759986365551
+Biología,Personal,oportunidades_laborales,55,-0.2549032083376098
+Biología,Socioeconómica,apoyo_ambiente_familiar,55,-0.1352833623820403
+Biología,Socioeconómica,importancia_apoyo_familiar,55,-0.17087113383444535
+Biología,Socioeconómica,estrato,55,-0.08930751568260899
+Biología,Socioeconómica,satisfaccion_programa,55,-0.34022166250374125
+Biología,Socioeconómica,satisfaccion_induccion,55,-0.19411793470203836
+Biología,Socioeconómica,satisfaccion_docencia,55,-0.23449422774208112
+Biología,Socioeconómica,dedicacion_estudio,55,-0.3450840786611473
+Biología,Socioeconómica,oportunidades_laborales,55,-0.24669283121816396
+Biología,Académica,apoyo_ambiente_familiar,55,-0.24227076957751642
+Biología,Académica,importancia_apoyo_familiar,55,-0.08483973091783141
+Biología,Académica,estrato,55,-0.08897312213440603
+Biología,Académica,satisfaccion_programa,55,-0.5613441665459329
+Biología,Académica,satisfaccion_induccion,55,-0.26541762830240584
+Biología,Académica,satisfaccion_docencia,55,-0.38649709881551
+Biología,Académica,dedicacion_estudio,55,-0.5044618655389707
+Biología,Académica,oportunidades_laborales,55,-0.3995508173748118
+Estadística,Personal,apoyo_ambiente_familiar,59,-0.3041077131815695
+Estadística,Personal,importancia_apoyo_familiar,59,-0.14634947711815438
+Estadística,Personal,estrato,59,-0.09335395352164075
+Estadística,Personal,satisfaccion_programa,59,-0.5252076571519644
+Estadística,Personal,satisfaccion_induccion,59,-0.24933129059633197
+Estadística,Personal,satisfaccion_docencia,59,-0.3904717118092172
+Estadística,Personal,dedicacion_estudio,59,-0.4499507448451367
+Estadística,Personal,oportunidades_laborales,59,-0.4324751154365534
+Estadística,Socioeconómica,apoyo_ambiente_familiar,59,-0.06363342948717626
+Estadística,Socioeconómica,importancia_apoyo_familiar,59,-0.29319365437432376
+Estadística,Socioeconómica,estrato,59,-0.031111021727115575
+Estadística,Socioeconómica,satisfaccion_programa,59,-0.2512441204297848
+Estadística,Socioeconómica,satisfaccion_induccion,59,-0.16597647020728765
+Estadística,Socioeconómica,satisfaccion_docencia,59,-0.0409574704235075
+Estadística,Socioeconómica,dedicacion_estudio,59,-0.1643960610130184
+Estadística,Socioeconómica,oportunidades_laborales,59,-0.2750340504415684
+Estadística,Académica,apoyo_ambiente_familiar,59,-0.1258319379472894
+Estadística,Académica,importancia_apoyo_familiar,59,-0.040567018228511866
+Estadística,Académica,estrato,59,0.04113662085371757
+Estadística,Académica,satisfaccion_programa,59,-0.4625203567779146
+Estadística,Académica,satisfaccion_induccion,59,-0.496342128408902
+Estadística,Académica,satisfaccion_docencia,59,-0.347425039727317
+Estadística,Académica,dedicacion_estudio,59,-0.2855569841191525
+Estadística,Académica,oportunidades_laborales,59,-0.22608315161951048
+Geografía,Personal,apoyo_ambiente_familiar,48,-0.06654976501830767
+Geografía,Personal,importancia_apoyo_familiar,48,-0.3180024100492469
+Geografía,Personal,estrato,48,0.11840487838148603
+Geografía,Personal,satisfaccion_programa,48,-0.14717861585599396
+Geografía,Personal,satisfaccion_induccion,48,-0.0690663781376275
+Geografía,Personal,satisfaccion_docencia,48,-0.1567678066809416
+Geografía,Personal,dedicacion_estudio,48,-0.29772852543306794
+Geografía,Personal,oportunidades_laborales,48,-0.13535298739959561
+Geografía,Socioeconómica,apoyo_ambiente_familiar,48,0.013118329424552974
+Geografía,Socioeconómica,importancia_apoyo_familiar,48,-0.20806737207445922
+Geografía,Socioeconómica,estrato,48,0.11457837984630924
+Geografía,Socioeconómica,satisfaccion_programa,48,-0.2597180888686894
+Geografía,Socioeconómica,satisfaccion_induccion,48,-0.28095506681561633
+Geografía,Socioeconómica,satisfaccion_docencia,48,-0.18856358498056663
+Geografía,Socioeconómica,dedicacion_estudio,48,-0.198394460130786
+Geografía,Socioeconómica,oportunidades_laborales,48,0.04170717418482934
+Geografía,Académica,apoyo_ambiente_familiar,48,-0.03461886652153348
+Geografía,Académica,importancia_apoyo_familiar,48,0.08414577279066608
+Geografía,Académica,estrato,48,0.17879266739614202
+Geografía,Académica,satisfaccion_programa,48,-0.17735023964866697
+Geografía,Académica,satisfaccion_induccion,48,-0.39433013979697806
+Geografía,Académica,satisfaccion_docencia,48,-0.11759629006320035
+Geografía,Académica,dedicacion_estudio,48,-0.3752251612365871
+Geografía,Académica,oportunidades_laborales,48,-0.15620570665106256
+Gestión Cultural y Comunicativa,Personal,apoyo_ambiente_familiar,37,-0.12154340696274822
+Gestión Cultural y Comunicativa,Personal,importancia_apoyo_familiar,37,0.0057276706723777505
+Gestión Cultural y Comunicativa,Personal,estrato,37,-0.0017431623820115206
+Gestión Cultural y Comunicativa,Personal,satisfaccion_programa,37,0.014872107250298094
+Gestión Cultural y Comunicativa,Personal,satisfaccion_induccion,37,-0.22188000146105452
+Gestión Cultural y Comunicativa,Personal,satisfaccion_docencia,37,0.06108281177726409
+Gestión Cultural y Comunicativa,Personal,dedicacion_estudio,37,-0.16202157785887403
+Gestión Cultural y Comunicativa,Personal,oportunidades_laborales,37,-0.0501886335416345
+Gestión Cultural y Comunicativa,Socioeconómica,apoyo_ambiente_familiar,37,-0.15364350570887653
+Gestión Cultural y Comunicativa,Socioeconómica,importancia_apoyo_familiar,37,0.06682667920393866
+Gestión Cultural y Comunicativa,Socioeconómica,estrato,37,-0.08627442455894739
+Gestión Cultural y Comunicativa,Socioeconómica,satisfaccion_programa,37,-0.10816112783642247
+Gestión Cultural y Comunicativa,Socioeconómica,satisfaccion_induccion,37,-0.4290182742323924
+Gestión Cultural y Comunicativa,Socioeconómica,satisfaccion_docencia,37,-0.17347699238354858
+Gestión Cultural y Comunicativa,Socioeconómica,dedicacion_estudio,37,-0.08010636690270206
+Gestión Cultural y Comunicativa,Socioeconómica,oportunidades_laborales,37,-0.4090680608924713
+Gestión Cultural y Comunicativa,Académica,apoyo_ambiente_familiar,37,-0.10141224807935531
+Gestión Cultural y Comunicativa,Académica,importancia_apoyo_familiar,37,0.029126739905683038
+Gestión Cultural y Comunicativa,Académica,estrato,37,0.08062344308188515
+Gestión Cultural y Comunicativa,Académica,satisfaccion_programa,37,-0.07316480386639344
+Gestión Cultural y Comunicativa,Académica,satisfaccion_induccion,37,-0.1203951186241471
+Gestión Cultural y Comunicativa,Académica,satisfaccion_docencia,37,-0.09485497892117097
+Gestión Cultural y Comunicativa,Académica,dedicacion_estudio,37,-0.0286029773208093
+Gestión Cultural y Comunicativa,Académica,oportunidades_laborales,37,-0.4020184587689833
+Ingeniería Biológica,Personal,apoyo_ambiente_familiar,47,0.08807207939364538
+Ingeniería Biológica,Personal,importancia_apoyo_familiar,47,-0.12591729883795494
+Ingeniería Biológica,Personal,estrato,47,0.14621456712732997
+Ingeniería Biológica,Personal,satisfaccion_programa,47,-0.025196773885483255
+Ingeniería Biológica,Personal,satisfaccion_induccion,47,-0.11402982640608879
+Ingeniería Biológica,Personal,satisfaccion_docencia,47,-0.24700640700453103
+Ingeniería Biológica,Personal,dedicacion_estudio,47,-0.13928483626200439
+Ingeniería Biológica,Personal,oportunidades_laborales,47,-0.06366822879006631
+Ingeniería Biológica,Socioeconómica,apoyo_ambiente_familiar,47,-0.03409969801704112
+Ingeniería Biológica,Socioeconómica,importancia_apoyo_familiar,47,-0.03761259062535998
+Ingeniería Biológica,Socioeconómica,estrato,47,0.03327504023643774
+Ingeniería Biológica,Socioeconómica,satisfaccion_programa,47,-0.004382661430169015
+Ingeniería Biológica,Socioeconómica,satisfaccion_induccion,47,0.17244957138634706
+Ingeniería Biológica,Socioeconómica,satisfaccion_docencia,47,0.100145529793761
+Ingeniería Biológica,Socioeconómica,dedicacion_estudio,47,-0.006815250537401414
+Ingeniería Biológica,Socioeconómica,oportunidades_laborales,47,-0.036418335144565564
+Ingeniería Biológica,Académica,apoyo_ambiente_familiar,47,0.02418808132023442
+Ingeniería Biológica,Académica,importancia_apoyo_familiar,47,0.07049003682714099
+Ingeniería Biológica,Académica,estrato,47,-0.023257110280718023
+Ingeniería Biológica,Académica,satisfaccion_programa,47,-0.28142368578495874
+Ingeniería Biológica,Académica,satisfaccion_induccion,47,-0.19244792889947468
+Ingeniería Biológica,Académica,satisfaccion_docencia,47,-0.41937055771502796
+Ingeniería Biológica,Académica,dedicacion_estudio,47,-0.0038025384983267547
+Ingeniería Biológica,Académica,oportunidades_laborales,47,-0.30413975067473514
+Ingeniería Mecatrónica,Personal,apoyo_ambiente_familiar,87,-0.18207333038962595
+Ingeniería Mecatrónica,Personal,importancia_apoyo_familiar,87,0.017926085865516327
+Ingeniería Mecatrónica,Personal,estrato,87,-0.12325316891091634
+Ingeniería Mecatrónica,Personal,satisfaccion_programa,87,-0.31279501707014135
+Ingeniería Mecatrónica,Personal,satisfaccion_induccion,87,-0.21074879449753978
+Ingeniería Mecatrónica,Personal,satisfaccion_docencia,87,-0.23225084206625435
+Ingeniería Mecatrónica,Personal,dedicacion_estudio,87,0.10560372724248283
+Ingeniería Mecatrónica,Personal,oportunidades_laborales,87,-0.06390927752470771
+Ingeniería Mecatrónica,Socioeconómica,apoyo_ambiente_familiar,87,-0.05776746384369118
+Ingeniería Mecatrónica,Socioeconómica,importancia_apoyo_familiar,87,-0.033174009694498845
+Ingeniería Mecatrónica,Socioeconómica,estrato,87,-0.2182864739183076
+Ingeniería Mecatrónica,Socioeconómica,satisfaccion_programa,87,-0.2809866512880935
+Ingeniería Mecatrónica,Socioeconómica,satisfaccion_induccion,87,-0.1576001346051244
+Ingeniería Mecatrónica,Socioeconómica,satisfaccion_docencia,87,-0.26766686713978893
+Ingeniería Mecatrónica,Socioeconómica,dedicacion_estudio,87,0.11841961312203879
+Ingeniería Mecatrónica,Socioeconómica,oportunidades_laborales,87,-0.2618087709087998
+Ingeniería Mecatrónica,Académica,apoyo_ambiente_familiar,87,-0.28414270221153615
+Ingeniería Mecatrónica,Académica,importancia_apoyo_familiar,87,-0.07991134741641734
+Ingeniería Mecatrónica,Académica,estrato,87,-0.001530479352086767
+Ingeniería Mecatrónica,Académica,satisfaccion_programa,87,-0.46485119291845217
+Ingeniería Mecatrónica,Académica,satisfaccion_induccion,87,-0.3086061087843171
+Ingeniería Mecatrónica,Académica,satisfaccion_docencia,87,-0.1857774963148915
+Ingeniería Mecatrónica,Académica,dedicacion_estudio,87,-0.21389292187419393
+Ingeniería Mecatrónica,Académica,oportunidades_laborales,87,-0.379597578567924

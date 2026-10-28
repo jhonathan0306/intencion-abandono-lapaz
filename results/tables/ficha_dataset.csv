@@ -1,0 +1,19 @@
+﻿campo,valor
+Título,"Survey Dataset on Student Retention at the National University of Colombia, La Paz Campus (2025)"
+Autor de los datos,Cristian Correa
+Versión,2
+Publicación,2026-03-27
+Fuente,https://data.mendeley.com/datasets/kxgrpy8sfp/2
+DOI,10.17632/kxgrpy8sfp.2
+Licencia,CC BY 4.0; https://creativecommons.org/licenses/by/4.0/
+Adquisición,Descarga manual aportada por la usuaria
+Recepción,"2026-10-24, America/Bogota"
+Fecha exacta de descarga,No confirmada; no confundir con fecha de recepción
+Periodo declarado por la publicación,Agosto a diciembre de 2025; no inferido de la marca temporal
+Unidad de análisis,Respuesta de un estudiante encuestado
+Registros observados,333
+Columnas observadas,34
+Variables declaradas en la documentación,33
+Resultados de interés,"intencion_personal, intencion_socioeconomica, intencion_academica; ordinales 1–5"
+Limitación,Sin seguimiento de matrícula ni resultado de deserción efectiva
+SHA256 del ZIP,72d788f9e3a20b4923e9be5ca2edc1907ee006e7d0a7cac0b0cd4c551e766d5f
