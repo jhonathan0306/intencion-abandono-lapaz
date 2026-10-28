@@ -12,7 +12,7 @@ Caracterizar las condiciones sociodemográficas, socioeconómicas y de experienc
 4. Verificar que el SHA-256 coincida con la ficha. Las aserciones detienen la ejecución si la fuente cambia.
 
 ## Entorno
-La ejecución local se hizo en Python 3.12.14, CPU, sin GPU. Versiones en `requirements.txt` y `results/environment.json`. Semilla fija 20261024. El código se ejecutó secuencialmente en Python; no se ha abierto todavía en una sesión real de Colab. El archivo original se requiere para regenerar auditoría y análisis completos.
+Los resultados publicados se generaron en Google Colab con Python 3.13.18. Las versiones de las librerías están registradas en requirements.txt y results/environment.json. Se utilizó la semilla 20261024. Para reproducir el análisis completo se requiere el archivo original de la fuente.
 
 ## Datos y resultados
 La copia procesada se guarda en `data/processed/`. Los diccionarios, ficha, controles ETL, correlaciones, VIF, subgrupos, sensibilidad y protocolo están en `results/tables/`. Las figuras se entregan en PNG de 300 dpi y SVG. Las cifras del documento deben provenir de estas salidas. `results/resumen_ejecucion.json` resume los controles.
@@ -21,10 +21,10 @@ La copia procesada se guarda en `data/processed/`. Los diccionarios, ficha, cont
 Muestra de encuesta, sin seguimiento de matrícula. Las puntuaciones 4–5 son un resumen exploratorio y no un umbral validado. Pearson y VIF sobre puntuaciones ordinales son diagnósticos de sensibilidad. Las pruebas confirmatorias están previstas para fases posteriores. La copia procesada reduce detalle personal, pero no cuenta con certificación formal de anonimización. No publicar el original ni datos individuales de grupos pequeños.
 
 ## Estado de entrega
-Paquete local del ACA 1. Pendientes: confirmar fecha de descarga, revisión y comprensión del autor, ejecutar en Colab, crear repositorio público y publicar release con etiqueta v0.1. Este paquete no crea esa release ni contiene enlaces públicos inventados. El PDF del documento de grado se consolida en una etapa posterior.
+El repositorio contiene el cuaderno ejecutado en Google Colab, la base procesada, los diccionarios, las tablas y las figuras del ACA 1. Está pendiente publicar la versión v0.1 y consolidar el documento académico final.
 
 ## Licencias y citas
-Datos: Correa, C. (2026), Mendeley Data V2, https://doi.org/10.17632/kxgrpy8sfp.2, CC BY 4.0. Código propio: MIT. Consultar `DATA_LICENSE.md` y `DECLARACION_IA.md`.
+Datos: Correa, C. (2026), Mendeley Data, versión 2, https://doi.org/10.17632/kxgrpy8sfp.2, licencia CC BY 4.0. Código propio: licencia MIT. Consultar DATA_LICENSE.md.
 
 ## Referencias técnicas
 SciPy, correlación de Spearman: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.spearmanr.html
